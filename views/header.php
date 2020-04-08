@@ -15,6 +15,11 @@ print('
     
 </head>
 <body>
+    <div class="cover bg-blue-100">
+        <div class="content-logo">
+            <img src="./public/img/logo.png" alt="Logo Helados Place">
+        </div>
+    </div>
     <header class="top fixed-top bg-blue-100">
         <div class="social-bar bg-blue-200">
             <div class="container">

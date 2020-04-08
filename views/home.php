@@ -39,8 +39,8 @@ $template = '
                     <img class="img-fluid" src="./public/img/products.jpg" alt="">
                 </div>
                 <div class="col-md-6 p-y-30 text-justify text-blue-100">
-                    <p class="m-y-120">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla auctor pretium ex id pharetra. Nam sit amet sodales libero. Nam gravida vestibulum libero. Donec magna elit, pellentesque eu tellus sed, ultrices congue orci. Donec porta magna eget nulla mattis ornare. Proin vitae commodo magna.</p>
-                    <a class="btn-content" href=""><img class="img-fluid" src="./public/img/bt_products.jpg" alt=""></a>
+                    <p class="m-y-120">No se puede comprar la <b>felicidad</b> pero se puede comprar <b>helado </b>que es bastante parecido.</p>
+                    <a class="btn-content" href="products"><img class="img-fluid" src="./public/img/bt_products.jpg" alt=""></a>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@ $template = '
                         <p> Gonzalo Salazar Oe3-183 y Carlos Guarderas</p>
                         <p><a class="text-white" href="mailto:hola@felicidadenuncono.com">hola@felicidadenuncono.com</a></p>
                         <p><a class="text-white" href="tel:593973323211">0973323211</a></p>
-                        <a class="btn-content" href=""><img class="img-fluid" src="./public/img/googl-maps.jpg" alt=""></a>
+                        <a class="btn-content" href="https://goo.gl/maps/9pAMqMUp6nVbddER7" target="_blank"><img class="img-fluid" src="./public/img/googl-maps.jpg" alt=""></a>
                         <div class="p-y-30">
                             <a class="text-white" href="https://facebook.com/" target="_blank"><i class="fab fa-facebook-square"></i></a>
                             <a class="text-white" href="https://instagram.com/" target="_blank"><i class="fab fa-instagram-square"></i></a>
